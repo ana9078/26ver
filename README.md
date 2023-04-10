@@ -1,3 +1,10 @@
-# 26ver
+# Remove noise from audio using Transformers Hugging Face
 correr separation
-Se agrega codigo para poder subir un audio y limpiarlo mediante dos modelos pre entreados de HuggingFace 
+Project developed as pre-professional practices of www.jrtec.io
+## About this project
+Project developed in python with two pre-trained models of Hugging Face transformers to remove background noise from audio 
+
+## Models used
+
+- https://huggingface.co/speechbrain/sepformer-wham
+- https://huggingface.co/speechbrain/sepformer-libri2mix
