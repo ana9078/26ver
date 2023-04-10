@@ -1,0 +1,13 @@
+FROM python
+
+RUN pip install poetry
+RUN pip install FastAp
+RUN pip install Torchaudio
+RUN pip install SepformerSeparation
+
+WORKDIR /project 
+
+COPY pyproject.toml /project
+
+EXPOSE 3000
+
