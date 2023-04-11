@@ -29,7 +29,6 @@ poetry run python cambio.py
 
 ## License
 
-APACHE LICENSE, VERSION 2.0
-Text version: https://www.apache.org/licenses/LICENSE-2.0.txt
-SPDX short identifier: Apache-2.0
-OSI Approved License: https://opensource.org/licenses/Apache-2.0
+[![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
+
+- This project is licensed under the terms of the **[MIT license](LICENSE)**
