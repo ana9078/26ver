@@ -11,7 +11,8 @@ Project developed in python with two pre-trained models of Hugging Face transfor
 ## Clone de project
 
 ```sh
-git clone https://github.com/AlexanderG1999/Transformers-HuggingFace-ASR.git
+git clone https://github.com/ana9078/26ver.git
+
 ```
 
 ## Install all dependencies
